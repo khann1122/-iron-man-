@@ -368,8 +368,8 @@ Return group id or user id
 !help
 Get commands list
 
-!lock [member|name|bots|leave] 
-Locks [member|name|bots|leaveing] 
+!lock [link|name|bots|leave] 
+Locks [links|name|bots|leaveing] 
 
 !unlock [member|name|bots|leave]
 Unlocks [member|name|bots|leaving]
